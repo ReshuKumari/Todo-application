@@ -29,3 +29,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## To set it locally
 
 Install node_modules in the app `npm install` then run `ng-serve`.
+
+## This is how it will look when you set it up:
+
+![Todo-aaplication-image](images/app.png)
